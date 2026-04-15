@@ -1,6 +1,6 @@
 # Gerenciador de Tarefas  
 
-## 📋 Descrição do Projeto  
+## Descrição do Projeto  
 Este projeto é um sistema de gerenciamento de tarefas desenvolvido em Python, que utiliza estruturas de dados avançadas (pilhas, filas, tabelas hash e heaps) para organizar e priorizar tarefas em um projeto de software.  
 
 ### **Funcionalidades Principais**  
@@ -12,7 +12,7 @@ Este projeto é um sistema de gerenciamento de tarefas desenvolvido em Python, q
 
 ---
 
-## 🚀 Como Executar o Código  
+## Como Executar o Código  
 
 ### **Pré-requisitos**  
 - Python 3.8 ou superior instalado no seu computador.  
@@ -73,7 +73,7 @@ Após concluir algumas tarefas, o tempo médio será calculado automaticamente.
 
 ---
 
-## 🛠️ Estruturas de Dados Utilizadas  
+## Estruturas de Dados Utilizadas  
 
 ### **1. Pilha (Histórico de Tarefas Concluídas)**  
 - Utilizada para armazenar as tarefas concluídas, permitindo fácil acesso ao histórico.  
@@ -93,5 +93,5 @@ Após concluir algumas tarefas, o tempo médio será calculado automaticamente.
 
 ---
 
-## 📌 Observação  
+## Observação  
 Este projeto foi desenvolvido como parte de uma avaliação acadêmica focada no uso de estruturas de dados avançadas.  
